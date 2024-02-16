@@ -40,6 +40,7 @@ The project is hosted on Github Pages:
 
 </details>
 
+
 ## About the project
 Level 4 individual project: Interactive experiences for public spaces using smartphone remote controllers for user interaction [HTML, JavaScript, Smartphone, HCI].
 
